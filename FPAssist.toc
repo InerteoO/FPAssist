@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Author: Mario
-## Title: FPAssist
+## Title: |cffff009dFP|cff02cdfaAssist
 ## Notes: Assistant for FuryProt Warrior
 ## Version: 1.0
 ## SavedVariablesPerCharacter: FPAssistDB
