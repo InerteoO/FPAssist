@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Interface: 11200
 ## Author: Mario
 ## Title: FPAssist
@@ -11,18 +10,4 @@ config.lua
 functions.lua
 macros.lua
 events.lua
-=======
-## Interface: 11200
-## Author: Mario
-## Title: FPAssist
-## Notes: Assistant for FuryProt Warrior
-## Version: 1.0
-## SavedVariablesPerCharacter: FPAssistDB
-
-core.lua
-config.lua
-functions.lua
-macros.lua
-events.lua
->>>>>>> 54d0099 (premier commit try)
 ui.lua
