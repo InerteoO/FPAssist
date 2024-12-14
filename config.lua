@@ -12,5 +12,3 @@ FPAssist.config.mobNotTauntable = {
 }
 
 
--- Try for push
->>>>>>> 54d0099 (premier commit try)
